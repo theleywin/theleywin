@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Pablo Gómez</h1>
 <h3 align="center">A passionate Computer Science student</h3>
-<img width="40%" long="60%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner" />
+<img width="40%" long="100%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner" />
 
 - 🔭 I’m currently studying at **Havana University** at 1st year
 
