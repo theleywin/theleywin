@@ -1,9 +1,8 @@
 <h1 align="center">Hi there👋, I'm Pablo Gómez</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.quora.com/Logo-Design-What-icon-best-represents-programming">
 
-- 🔭 I’m currently studying at **Havana University**
+- 🔭 I’m currently studying at **Havana University** at 1st year
 
 - 📫 How to reach me **pgomezvidal034@gmail.com**
 
