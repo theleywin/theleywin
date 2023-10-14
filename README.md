@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Pablo Gómez</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/16762086-Programmer-character-animation](https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif)">
 
 - 🔭 I’m currently studying at **Havana University**
 
