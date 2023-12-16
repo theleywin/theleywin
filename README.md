@@ -2,6 +2,16 @@
 <h3 align="center">A Computer Science student at Havana University 🏛️</h3>
  <img align="right" width="40%" large="60%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner" />
 
+
+              <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+            
+
+
+
 - 🔭 I’m currently a 1st year student
 
 - 📫 How to reach me **pgomezvidal034@gmail.com**
