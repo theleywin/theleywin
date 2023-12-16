@@ -22,16 +22,17 @@
 <h3 align="left">My social:</h3>
 <p align="left">
 <a href="https://instagram.com/pablo____gv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pablo___gv" height="30" width="40" /></a><a href="https://www.leetcode.com/theleywin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theleywin" height="30" width="40" /></a>
- ![Jokes Card](https://readme-jokes.vercel.app/api)
 </p>
+
+<p>
 <h3 align="left">Skill:</h3>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /></div>
 
-
 <h3 align="right">My Stats :</h3>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=theleywin&show_icons=true&locale=en&layout=compact" alt="theleywin" />
+</p>
 
-<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=theleywin&show_icons=true&locale=en&layout=compact" alt="theleywin" /></p>
-
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
