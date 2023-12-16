@@ -1,5 +1,5 @@
-![Header](./[![github-header-image](https://github.com/theleywin/theleywin/assets/123096717/c5d4ee60-253b-4aad-b440-6efddf3ed783)
-])
+![github-header-image](https://github.com/theleywin/theleywin/assets/123096717/c5d4ee60-253b-4aad-b440-6efddf3ed783)
+
  
 
 <picture>
