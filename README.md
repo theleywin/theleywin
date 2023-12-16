@@ -1,5 +1,4 @@
-<h1 align="center">Hello there👺, I'm Pablo Gómez</h1>
-<h3 align="center">A Computer Science student at Havana University 🏛️</h3>
+![Example 2](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png)
  
 
 <picture>
