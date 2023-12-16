@@ -31,7 +31,7 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theleywin&show_icons=true&locale=en&layout=compact" alt="theleywin" /></p>
 
-<h3 align="right">Ramdom joke :v</h3>
+Random joke 🩹
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
