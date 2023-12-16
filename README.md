@@ -18,7 +18,6 @@
 
 - ⚡ Fun fact **Python was not named after a snake.**
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">My social:</h3>
 <p align="left">
@@ -30,8 +29,9 @@
 
 <h3 align="left">My Stats :</h3>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theleywin&show_icons=true&locale=en&layout=compact" alt="theleywin" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theleywin&show_icons=true&locale=en&layout=compact" alt="theleywin" /></p>
 
+<h3 align="right">Ramdom joke :v</h3>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
