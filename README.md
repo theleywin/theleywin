@@ -27,9 +27,9 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /></div>
 
 
-<h3 align="center">My Stats :</h3>
+<h3 align="left">My Stats :</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theleywin&show_icons=true&locale=en&layout=compact" alt="theleywin" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theleywin&show_icons=true&locale=en&layout=compact" alt="theleywin" /></p>
 
 
 
