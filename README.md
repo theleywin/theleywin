@@ -17,6 +17,7 @@
 - 📫 How to reach me **pgomezvidal034@gmail.com**
 
 - ⚡ Fun fact **Python was not named after a snake.**
+
  <img align="right" width="30%" large="40%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner" />
 
 
