@@ -1,6 +1,6 @@
 <h1 align="center">Hello there👺, I'm Pablo Gómez</h1>
 <h3 align="center">A Computer Science student at Havana University 🏛️</h3>
- <img align="right" width="40%" large="60%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner" />
+ 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -25,6 +25,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <a href="https://www.leetcode.com/theleywin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theleywin" height="30" width="40" /></a>
 </p>
+<img align="right" width="20%" large="30%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner" />
 
 <h3 align="left">My Github...trophies?🏆</h3>
 
