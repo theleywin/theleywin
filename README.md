@@ -18,8 +18,6 @@
 
 - ⚡ Fun fact **Python was not named after a snake.**
 
- <img align="right" width="30%" large="40%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner" />
-
 
 <h3 align="left">My social:</h3>
 <p align="left">
