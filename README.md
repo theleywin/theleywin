@@ -28,9 +28,9 @@
 <h3 align="left">Skill:</h3>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /></div>
 
-<h3 align="right">My Stats :</h3>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=theleywin&show_icons=true&locale=en&layout=compact" alt="theleywin" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theleywin&show_icons=true&locale=en&layout=compact" alt="theleywin" />
 </p>
+
 
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
