@@ -1,4 +1,4 @@
-![Example 2](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png)
+
  
 
 <picture>
