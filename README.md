@@ -1,7 +1,6 @@
 
-![github-header-image-7](https://github.com/theleywin/theleywin/assets/123096717/44f6bd27-bb98-479d-b627-fa8901853f32)
+ ![github-header-image-10](https://github.com/theleywin/theleywin/assets/123096717/b75c588e-8caf-4dc3-af17-6592a2ca67bf)
 
- 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
