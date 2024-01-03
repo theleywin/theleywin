@@ -28,7 +28,11 @@
 
 <p>
 <h3 align="left">Skill:</h3>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /></div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,dotnet,github,visualstudio,vscode," />
+  </a>
+</p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theleywin&show_icons=true&locale=en&layout=compact" alt="theleywin" />
 </p>
