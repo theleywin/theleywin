@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theleywin&show_icons=true&locale=en&layout=compact" alt="theleywin" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theleywin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
 </p>
 
 
