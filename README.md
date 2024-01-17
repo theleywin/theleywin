@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently a 1st year student
+- 🧑🏻‍💻 I’m currently a 2nd year student
 
 - 📫 How to reach me **pgomezvidal034@gmail.com**
 
