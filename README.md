@@ -30,7 +30,7 @@
 <h3 align="left">Skill:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,dotnet,github,visualstudio,vscode," />
+    <img src="https://skillicons.dev/icons?i=cs,c++,py,dotnet,github,visualstudio,vscode," />
   </a>
 </p>
 
