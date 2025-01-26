@@ -31,13 +31,9 @@ I am excited to contribute to open-source projects and collaborate with other te
   </a>
 
 
-## 
-<h2 align="left">Cp</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theleywin&show_icons=true&locale=en" alt="theleywin" /></p>
 
-<p align="left">
-<a href="https://www.leetcode.com/theleywin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theleywin" height="30" width="40" /></a><a href="https://codeforces.com/profile/theleywin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="theleywin" height="30" width="40" /></a>
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theleywin&" alt="theleywin" /></p>
 ##
 
 <p>
