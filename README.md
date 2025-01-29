@@ -30,9 +30,6 @@ I am excited to contribute to open-source projects and collaborate with other te
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 
-##
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theleywin&show_icons=true&locale=en" alt="theleywin" /></p>
-
 
 ##
 
